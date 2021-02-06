@@ -1,2 +1,1 @@
-# Blog-Website
-A blog website using node js
+<img src="preview.gif">
